@@ -106,8 +106,12 @@ Through this project, the following concepts were learned:
 Author
 
 Name: Anshima
+
 Program: DecodeLabs Artificial Intelligence Internship 2026
+
 Project: Project 2 – Data Classification Using AI
+
+
 
 Conclusion
 
